@@ -44,7 +44,3 @@ I'm a third-year B.Tech CSE student at Bennett University (Greater Noida) with a
 
 - **Email:** [aakashsingh2004@gmail.com](mailto:aakashsingh2004@gmail.com)
 - **LinkedIn:** [Aakash Singh](https://www.linkedin.com/in/aakash-singh-/)
-
-## 📈 GitHub Stats
-
-![Aakash Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
